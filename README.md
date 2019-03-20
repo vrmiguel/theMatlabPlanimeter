@@ -1,9 +1,4 @@
-# Planimeter
-
-  Approximates a given area on an image with MATLAB. 
-  
-  
-  
+# theMatlabPlanimeter
 
   Planimeter written in MATLAB as the final assignment for the Numerical Analysis (Cálculo Numérico) discipline at the Federal University of São Paulo, under Prof. Leduíno Salles Neto, Ph.D.
 
