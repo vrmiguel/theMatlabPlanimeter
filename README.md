@@ -1,6 +1,6 @@
 # theMatlabPlanimeter
 
-  Planimeter written in MATLAB as the final assignment for the Numerical Analysis (Cálculo Numérico) discipline at the Federal University of São Paulo, under Prof. Leduíno Salles Neto, Ph.D.
+  Planimeter written in MATLAB as the final assignment for the Numerical Analysis (Cálculo Numérico) course at the Federal University of São Paulo, under Prof. Leduíno Salles Neto, Ph.D.
 
 
 It takes an image as argument, through a file selection box. The user then has to draw a contour on the given image, which will be the area the planimeter will try to find. As a final step, the user has to draw a line on the image and then state how many meters the given line represents on a real world scale. The approximate result will be given on a dialog box.
