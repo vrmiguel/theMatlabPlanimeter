@@ -46,7 +46,7 @@ end
 soma = soma1 + (xy(n,1) * xy(1,2)) - soma2 - (xy(1,1) * xy(n,2));
 areaEmPixel = 1/2 * abs(soma)
 
-message = sprintf('Area da Região em Pixels: %0.5f m²', areaEmPixel);
+message = sprintf('Area da Região em Pixels: %0.5f px²', areaEmPixel);
 uiwait(msgbox(message));
 
 close all;	% Fecha janelas de figura, exceto as criadas pelo imtool
